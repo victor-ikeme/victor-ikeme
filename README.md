@@ -32,10 +32,10 @@ Every day, I work at the intersection of DevOps, developer experience, and platf
 ### 🌐 Find Me Online
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/victorikeme" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/victor-ikeme" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/victor-ikeme" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://bsky.app/profile/victorikeme.bsky.social" target="_blank"><img src="https://img.shields.io/badge/-Bluesky-%230077B5?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@cloudikeme" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://bsky.app/profile/cloudikeme.bsky.social" target="_blank"><img src="https://img.shields.io/badge/-Bluesky-%230077B5?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@victor-ikeme" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </div>
 
 ---
