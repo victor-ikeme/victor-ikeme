@@ -1,23 +1,39 @@
 <!-- Victor Ikeme | Cloud Platform Engineer -->
+---
 
-### Hey, I'm [Victor Ikeme](https://cloudikeme.com) 👋
+## 👋 Hi, I'm [Victor Ikeme](https://cloudikeme.com)
 
-Cloud Platform Engineer, platform product thinker, and creator of [**Build Platforms Daily**](https://blog.cloudikeme.com).
+**Senior Cloud Platforms Architect** | Creator of [**Build Platforms Daily**](https://blog.cloudikeme.com) | Certified Platform Engineer (PEU)
 
-I help engineering teams turn scattered cloud-native tooling into cohesive, developer-focused **Internal Developer Platforms (IDPs)**. My approach blends infrastructure expertise with a product mindset — focusing on usability, adoption, and long-term platform success.
+I specialize in building **Internal Developer Platforms (IDPs)** that streamline software delivery for fast-moving teams. My work blends deep cloud infrastructure expertise with a strong product mindset — helping engineering orgs ship platforms that developers love and actually want to use.
 
-Every day, I work at the intersection of DevOps, developer experience, and platform strategy to ship platforms that developers *actually want* to use.
+I work at the intersection of:
+
+* 🧱 DevOps and Platform Engineering
+* 🧑‍💻 Developer Experience (DevEx)
+* 🧭 Cloud-Native Architecture
+* 🧩 Platform Product Strategy
+
+My mission is simple: **help teams turn scattered cloud-native tooling into cohesive, secure, and scalable developer platforms.**
 
 ---
 
-### 🚀 What I Do
+## 🚀 What I Do
 
-- 🛠️ Design and implement Internal Developer Platforms (IDPs)
-- ☁️ Work deeply with Kubernetes, Docker, Podman, and cloud-native tooling
-- 📦 Advocate for **platforms-as-products** and developer-centric architecture
-- 📘 Write about platform engineering on [**Build Platforms Daily**](https://cloudikeme.com)
+* 🛠️ **Design and implement Internal Developer Platforms (IDPs)** tailored to team needs, built for scale and usability.
+* ☁️ Work across **multi-cloud environments** (AWS, Azure, GCP, OpenShift) and **IaC stacks** (Terraform, OpenTofu, Pulumi).
+* 🔁 Use **platform orchestrators** like Humanitec, Kratix, and Qovery to abstract infra and enable self-service.
+* 🌐 Build and extend **IDP portals** using Backstage, Port, Red Hat Developer Hub, and Humanitec UI.
+* 📦 Advocate for **Platforms-as-Products**, promoting adoption through UX, documentation, feedback loops, and DevEx metrics.
+* ✍️ Write hands-on tutorials, platform engineering patterns, and tool deep dives on [**Build Platforms Daily**](https://cloudikeme.com).
 
 ---
+
+✅ Whether you're a recruiter looking for platform talent, a CTO modernizing delivery workflows, or an engineer building your first IDP — I create content and tools to help you succeed.
+
+---
+
+Would you like me to revise your GitHub repo description or tagline next?
 
 ### ✍️ Latest from Build Platforms Daily
 
