@@ -1,8 +1,8 @@
 <!-- Victor Ikeme | Cloud Platform Engineer -->
 
-### Hey, I'm Victor Ikeme 👋
+### Hey, I'm [Victor Ikeme](https://cloudikeme.com) 👋
 
-Cloud Platform Engineer, platform product thinker, and creator of [**Build Platforms Daily**](https://cloudikeme.com).
+Cloud Platform Engineer, platform product thinker, and creator of [**Build Platforms Daily**](https://blog.cloudikeme.com).
 
 I help engineering teams turn scattered cloud-native tooling into cohesive, developer-focused **Internal Developer Platforms (IDPs)**. My approach blends infrastructure expertise with a product mindset — focusing on usability, adoption, and long-term platform success.
 
