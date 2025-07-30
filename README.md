@@ -20,7 +20,7 @@ My mission is simple: **help teams turn scattered cloud-native tooling into cohe
 
 ## 🚀 What I Do
 
-* 🛠️ **Design and implement Internal Developer Platforms (IDPs)** tailored to team needs, built for scale and usability.
+* 🛠️ **Design and implement Kubernetes-Based Internal Developer Platforms (IDPs)** tailored to team needs, built for scale and usability.
 * ☁️ Work across **multi-cloud environments** (AWS, Azure, GCP, OpenShift) and **IaC stacks** (Terraform, OpenTofu, Pulumi).
 * 🔁 Use **platform orchestrators** like Humanitec, Kratix, and Qovery to abstract infra and enable self-service.
 * 🌐 Build and extend **IDP portals** using Backstage, Port, Red Hat Developer Hub, and Humanitec UI.
