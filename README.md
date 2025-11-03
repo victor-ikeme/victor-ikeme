@@ -5,31 +5,36 @@
 
 **Senior Cloud Platforms Architect** | Creator of [**Build Platforms Daily**](https://blog.cloudikeme.com) | Certified Platform Engineer (PEU)
 
-I specialize in building **Internal Developer Platforms (IDPs)** that streamline software delivery for fast-moving teams. My work blends deep cloud infrastructure expertise with a strong product mindset — helping engineering orgs ship platforms that developers love and actually want to use.
+**Solutions Engineer & DevRel | Founder @ Build Platforms Daily | 
+Platform Engineering for AI & Data | Kubernetes, OpenTelemetry & SQL | Customer-Obsessed | Podcast Host, Speaker & Writer**
 
-I work at the intersection of:
+I drive customer success by partnering with cloud-native teams to translate complex technology into tangible business outcomes. 
 
-* 🧱 DevOps and Platform Engineering
-* 🧑‍💻 Developer Experience (DevEx)
-* 🧭 Cloud-Native Architecture
-* 🧩 Platform Product Strategy
+My work sits at the intersection of deep technical expertise, problem solving and authentic storytelling, where I specialize in making Observability, Data, AI, and Platform Engineering accessible, scalable, and strategically compelling.
 
-My mission is simple: **help teams turn scattered cloud-native tooling into cohesive, secure, and scalable developer platforms.**
+With over nine (9) years of experience, I partner with startups and enterprises to align platform engineering and developer experience initiatives with core business objectives. 
 
----
+I specialize in translating commercial goals—faster time-to-market, reduced operational overhead, increased developer productivity—into technical reality, ensuring the platform not only functions flawlessly but also delivers measurable value to the business and resonates with the developers who use it daily.
 
-## 🚀 What I Do
+My approach bridges implementation with communication, ensuring that powerful technology is also understood and adopted.
+- Creating Authority through Content: Authoring articles, hosting the Build Platforms Daily podcast, and delivering talks that establish thought leadership and drive engagement.
+- Driving Customer Success & Product Evolution: Serving as a technical trusted advisor by troubleshooting critical deployment blockers, leading technical onboarding sessions, and synthesizing customer feedback into actionable product insights for engineering teams.
 
-* 🛠️ **Design and implement Kubernetes-Based Internal Developer Platforms (IDPs)** tailored to team needs, built for scale and usability.
-* ☁️ Work across **multi-cloud environments** (AWS, Azure, GCP, OpenShift) and **IaC stacks** (Terraform, OpenTofu, Pulumi).
-* 🔁 Use **platform orchestrators** like Humanitec, Kratix, and Qovery to abstract infra and enable self-service.
-* 🌐 Build and extend **IDP portals** using Backstage, Port, Red Hat Developer Hub, and Humanitec UI.
-* 📦 Advocate for **Platforms-as-Products**, promoting adoption through UX, documentation, feedback loops, and DevEx metrics.
-* ✍️ Write hands-on tutorials, platform engineering patterns, and tool deep dives on [**Build Platforms Daily**](https://cloudikeme.com).
+I specialize in:
+- Developer Relations & Advocacy: Building trusted relationships and communities.
+- Technical Storytelling: Translating deep technical depth into resonant narratives.
+- Observability & Platform Engineering: Transforming complex systems into human-centered developer experiences.
+- Growth Strategy: Designing data-driven campaigns that convert awareness into measurable adoption.
 
----
+Community is the heart of my work. 
 
-✅ Whether you're a recruiter looking for platform talent, a CTO modernizing delivery workflows, or an engineer building your first IDP — I create content and tools to help you succeed.
+As the Founder and Host of the Build Platforms Daily podcast and newsletter, I explore how leading teams define and measure Developer Experience. 
+
+Through this platform and active participation in CNCF and PlatformEngineering.org communities, I am dedicated to making modern infrastructure not only scalable but also understandable and lovable.
+
+If you are building in the cloud-native ecosystem, I invite you to connect. 
+
+Let's discuss how to turn your platform and product into a story that developers genuinely care about.
 
 ---
 
