@@ -1,9 +1,9 @@
 <!-- Victor Ikeme | Cloud Platform Engineer -->
 ---
 
-## 👋 Hi, I'm [Victor Ikeme](https://linkedin/in/victor-ikeme.com)
+## 👋 Hi, I'm [Victor Ikeme](https://linkedin.com/in/victor-ikeme)
 
-**Solutions Engineer & DevRel | Founder @ [**Build Platforms Daily**](https://blog.cloudikeme.com) | 
+**Solutions Engineer & DevRel | Founder @ [**Build Platforms Daily**](https://buildplatformsdaily.substack.com) | 
 Platform Engineering for AI & Data | Kubernetes, OpenTelemetry & SQL | Customer-Obsessed | Podcast Host, Speaker & Writer**
 
 I drive customer success by partnering with cloud-native teams to translate complex technology into tangible business outcomes. 
