@@ -68,12 +68,6 @@ My mission is simple: **help teams turn scattered cloud-native tooling into cohe
 
 ---
 
-### 📈 GitHub Stats
-
-![Victor Ikeme's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-ikeme&show_icons=true&theme=radical)
-
----
-
 ### 🧭 Want to learn more?
 
 Check out my portfolio → [cloudikeme.com](https://cloudikeme.com)
