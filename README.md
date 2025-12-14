@@ -3,32 +3,23 @@
 
 ## 👋 Hi, I'm [Victor Ikeme](https://linkedin.com/in/victor-ikeme)
 
-**Solutions Engineer & DevRel | Founder @ [**Build Platforms Daily**](https://buildplatformsdaily.substack.com) | 
+**Observability and SRE | Founder @ [**Build Platforms Daily**](https://buildplatformsdaily.substack.com) | 
 Platform Engineering for AI & Data | Kubernetes, OpenTelemetry & SQL | Customer-Obsessed | Podcast Host, Speaker & Writer**
 
-I drive customer success by partnering with cloud-native teams to translate complex technology into tangible business outcomes. 
+I build platforms and distributed systems with a simple goal: make them reliable for the business, understandable for the team, and straightforward for developers to use. My focus is on removing friction, reducing toil, and ensuring that our infrastructure supports innovation instead of getting in the way.
 
-My work sits at the intersection of deep technical expertise, problem solving and authentic storytelling, where I specialize in making Observability, Data, AI, and Platform Engineering accessible, scalable, and strategically compelling.
-
-With over nine (9) years of experience, I partner with startups and enterprises to align platform engineering and developer experience initiatives with core business objectives. 
-
-I specialize in translating commercial goals—faster time-to-market, reduced operational overhead, increased developer productivity—into technical reality, ensuring the platform not only functions flawlessly but also delivers measurable value to the business and resonates with the developers who use it daily.
-
-My approach bridges implementation with communication, ensuring that powerful technology is also understood and adopted.
-- Creating Authority through Content: Authoring articles, hosting the Build Platforms Daily podcast, and delivering talks that establish thought leadership and drive engagement.
-- Driving Customer Success & Product Evolution: Serving as a technical trusted advisor by troubleshooting critical deployment blockers, leading technical onboarding sessions, and synthesizing customer feedback into actionable product insights for engineering teams.
+I have over 5 years of experience across DevOps, Platform and Site Reliability Engineering, working at the intersection of infrastructure, applications, business metrics and the teams that build them. I’m drawn to the challenge of turning complex cloud environments into systems that are observable, maintainable, and truly helpful to the engineers who depend on them.
 
 I specialize in:
-- Developer Relations & Advocacy: Building trusted relationships and communities.
+- Observability, SRE & Platform Engineering: Transforming complex systems into human-centered developer experiences.
 - Technical Storytelling: Translating deep technical depth into resonant narratives.
-- Observability & Platform Engineering: Transforming complex systems into human-centered developer experiences.
 - Growth Strategy: Designing data-driven campaigns that convert awareness into measurable adoption.
 
 Community is the heart of my work. 
 
 As the Founder and Host of the Build Platforms Daily podcast and newsletter, I explore how leading teams define and measure Developer Experience. 
 
-Through this platform and active participation in CNCF and PlatformEngineering.org communities, I am dedicated to making modern infrastructure not only scalable but also understandable and lovable.
+Through this platform and active participation in CNCF and PlatformEngineering.org communities, I am dedicated to making modern infrastructure not only reliable, scalable and resilient but also understandable and lovable, ultimately impacting business values.
 
 If you are building in the cloud-native ecosystem, I invite you to connect. 
 
